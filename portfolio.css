@@ -166,6 +166,7 @@ footer:hover {
 @media screen and (max-width: 576px) {
     #Waterfall {
         display: none;
+	    background-color: purple;
     }
 }
 
